@@ -1,4 +1,4 @@
-/*  --- Ciclo For y método forEach(): ---
+/*  2--- Ciclo For y método forEach(): ---
 Vamos a ver cómo lo haremos con el ciclo For:
 Sintaxis básica:
 

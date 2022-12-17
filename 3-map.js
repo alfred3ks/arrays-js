@@ -1,4 +1,4 @@
-/* --- Método Map(): ---
+/* 3--- Método Map(): ---
 
 También podemos recorrer un array usando el método map().
 
