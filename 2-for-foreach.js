@@ -12,6 +12,7 @@ Metodo .forEach(), método que nos permite recorrer un arreglo. Este método rec
 
   array.forEach((element, index, elements) => {
       //code..
+}
 */
 
 // Veamos un ejemplo: Tenemos un array de estudiantes:
